@@ -1,4 +1,5 @@
-# Dataquest
+# Dataquest \
+
 ### ["Data Analyst in Python" DataQuest Guided Projects](https://app.dataquest.io/)
 > by Kuanysh Tazhibayev
 #### 1. Python for Data Science: Fundamentals
