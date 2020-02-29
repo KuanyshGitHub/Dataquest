@@ -1,6 +1,6 @@
-# Dataquest 
-
+# Dataquest
 ----------
+
 ### ["Data Analyst in Python" DataQuest Guided Projects](https://app.dataquest.io/)
 > by Kuanysh Tazhibayev
 -----------
