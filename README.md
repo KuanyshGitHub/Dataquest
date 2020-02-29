@@ -3,7 +3,7 @@
 ### ["Data Analyst in Python" DataQuest Guided Projects](https://app.dataquest.io/)
 > by Kuanysh Tazhibayev  
 
-#### [1. Python for Data Science: Fundamentals](Profitable App Profiles for the App Store and Google Play Markets.ipynb)
+#### [1. Python for Data Science: Fundamentals](https://github.com/KuanyshGitHub/Dataquest/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
    - [x] Profitable App Profiles for the App Store and Google Play Markets
 #### 2. Python for Data Science: Intermediate
    - [ ] Exploring Hacker News Posts
