@@ -6,7 +6,7 @@
 #### 1. Python for Data Science: Fundamentals
    - [x] [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/KuanyshGitHub/Dataquest/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
 #### 2. Python for Data Science: Intermediate
-   - [ ] Exploring Hacker News Posts
+   - [x] [Exploring Hacker News Posts](https://github.com/KuanyshGitHub/Dataquest/blob/master/Exploring%20Hacker%20News%20Posts.ipynb)
 #### 3. Pandas and Numpy Fundamentals
    - [ ] Exploring Exploring Ebay Car Sales Data
 #### 4. Exploratory Data Visualization
