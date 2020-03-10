@@ -8,7 +8,7 @@
 #### 2. Python for Data Science: Intermediate
    - [x] [Exploring Hacker News Posts](https://github.com/KuanyshGitHub/Dataquest/blob/master/Exploring%20Hacker%20News%20Posts.ipynb)
 #### 3. Pandas and Numpy Fundamentals
-   - [ ] Exploring Exploring Ebay Car Sales Data
+   - [x] [Exploring Exploring Ebay Car Sales Data](https://github.com/KuanyshGitHub/Dataquest/blob/master/Exploring%20Ebay%20Car%20Sales.ipynb)
 #### 4. Exploratory Data Visualization
    - [ ] Visualize Earning Based on College Majors
 #### 5. Storytelling Through Data Visualization
