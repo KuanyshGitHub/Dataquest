@@ -10,7 +10,7 @@
 #### 3. Pandas and Numpy Fundamentals
    - [x] [Exploring Exploring Ebay Car Sales Data](https://github.com/KuanyshGitHub/Dataquest/blob/master/Exploring%20Ebay%20Car%20Sales.ipynb)
 #### 4. Exploratory Data Visualization
-   - [ ] Visualize Earning Based on College Majors
+   - [x] [Visualize Earning Based on College Majors](https://github.com/KuanyshGitHub/Dataquest/blob/master/Visualize%20Earning%20Based%20on%20College%20Majors.ipynb)
 #### 5. Storytelling Through Data Visualization
    - [ ] Visualizing Geographic Data
 #### 6. Dat Cleaning and Analysis
