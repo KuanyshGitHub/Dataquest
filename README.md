@@ -13,7 +13,7 @@
    - [x] [Visualize Earning Based on College Majors](https://github.com/KuanyshGitHub/Dataquest/blob/master/Visualize%20Earning%20Based%20on%20College%20Majors.ipynb)
 #### 5. Storytelling Through Data Visualization
    - [ ] Visualizing Geographic Data
-#### 6. Dat Cleaning and Analysis
+#### 6. Data Cleaning and Analysis
    - [ ] Clean and Analyze Employee Exit Surveys
 #### 7. Data Cleaning Project Walkthrough
    - [ ] Star Wars Survey
