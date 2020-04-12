@@ -12,6 +12,7 @@
 #### 4. Exploratory Data Visualization
    - [x] [Visualize Earning Based on College Majors](https://github.com/KuanyshGitHub/Dataquest/blob/master/Visualize%20Earning%20Based%20on%20College%20Majors.ipynb)
 #### 5. Storytelling Through Data Visualization
+   - [x] [Visualizing The Gender Gap In College](https://github.com/KuanyshGitHub/Dataquest/blob/master/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb)
    - [ ] Visualizing Geographic Data
 #### 6. Data Cleaning and Analysis
    - [ ] Clean and Analyze Employee Exit Surveys
